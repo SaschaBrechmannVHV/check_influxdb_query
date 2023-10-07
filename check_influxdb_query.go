@@ -6,7 +6,7 @@ import (
 
 	"github.com/influxdata/influxdb/client/v2"
 	"github.com/olorin/nagiosplugin"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 )
 
 const (
